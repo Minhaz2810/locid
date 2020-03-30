@@ -1,0 +1,120 @@
+@media (max-width: 576px) {
+	.header {
+    padding-top: 20px;
+}
+.banner h1 {
+    font-size: 30px;
+}
+h6 {
+    font-size: 15px;
+}
+	.header .banner img {
+    display: none;
+}
+    .banner {
+    text-align: center;
+    font-size: 15px;
+}
+    .header img {
+    margin-right: 7px;
+    width: 75px;
+}
+	.product::before {
+    content: "";
+    position: absolute;
+    height: 3px;
+    width: 30px;
+    bottom: 14px;
+    left: 52%;
+    background-color: #1bb5ce;
+}
+    .product::after {
+    content: "";
+    position: absolute;
+    height: 3px;
+    width: 30px;
+    bottom: 14px;
+    left: 41%;
+    background-color: #1bb5ce;
+}
+    .icons {
+     margin-bottom: 0px;
+}
+    .details img {
+    display: none;
+}
+    .details::before {
+    content: "";
+    position: absolute;
+    height: 3px;
+    width: 30px;
+    top: 82px;
+    left: 55%;
+    background-color: #1bb5ce;
+}
+.details::after {
+    
+    top: 82px;
+    left: 47%;
+    background-color: #1bb5ce;
+}
+    .extra {
+    font-size: -39px;
+    margin-right: 14px;
+    margin-left: 191px;
+    padding-right: -66px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+    .extra h2 {
+    padding-bottom: 40px;
+    font-size: 28px;
+    }
+    .quality::after {
+    
+    top: 150px;
+    left: 41%;
+    background-color: #1bb5ce;
+}
+    .data {
+    margin: 45px;
+}
+    .gap {
+    margin-bottom: 25px;
+}   
+    .sign {
+     width: 100%;
+    margin-left: 0px;
+    padding-left: 0px;
+    height: 430px;
+}
+.subscriber textarea {
+    height: 73px;
+    width: 370px;
+    margin-left: 4px;
+}
+.send .btn-custom {
+    margin-left: 0px;
+}
+.like h2 {
+    font-size: 25px;
+}
+.like {
+    height: 172px;
+}
+.small {
+    margin-left: 35px;
+}
+.plan::after {
+    left: 41%;
+}
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 1200px) {
+
+}
